@@ -150,4 +150,5 @@ Function Prototypes
   returns a pointer to the uncle of a given node in a binary tree.
   * Returns `NULL` if no uncle is found.
   ## Authors
-  *Alfred & Fanuel
+  - [Alfred Gibeau Ahoussinou](https://www.github.com/alfredgibeau-ahoussinou)
+  - [Fanuel Pierre](https://www.github.com/Fpierr)
